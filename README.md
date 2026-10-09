@@ -202,17 +202,14 @@ Through this project, I am practicing how to:
 
 ## 📈 Development Progress
 
-- [ ] Load the state data from a CSV file
-- [ ] Create the blank US map
-- [ ] Receive user guesses
-- [ ] Check guesses against the state dataset
-- [ ] Display correctly guessed states
-- [ ] Track the number of correctly guessed states
-- [ ] Add a more polished game interface
-- [ ] Generate a list of missing states
-- [ ] Export missing states to a CSV file
-- [ ] Add additional game statistics
-- [ ] Improve input handling
+- [x] Load the state data from a CSV file
+- [x] Create the blank US map
+- [x] Receive user guesses
+- [x] Check guesses against the state dataset
+- [x] Display correctly guessed states
+- [x] Track the number of correctly guessed states
+- [x] Generate a list of missing states
+- [x] Export missing states to a CSV file
 
 ---
 
